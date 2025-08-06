@@ -160,7 +160,7 @@ def employee_frame():
 
 
 window = Tk()
-window.title('Inventory Management System | By Saurav Sharma')
+window.title('Inventory Management System | By Arjit Tank')
 window.geometry('1530x800+1+3')
 
 bg_Image = PhotoImage(file='inventory-system.png')
